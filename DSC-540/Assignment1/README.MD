@@ -5,6 +5,8 @@ Create a README.md file in which you list all the files that make up your submis
 Upload the Python Jupyter notebooks to your repository and submit the link to the learning management system.
 
 # Submitting Files:
+Assignment1.docx
+
 Assignment1NB.ipynb
 
 TechnicalReport.docx
@@ -17,6 +19,8 @@ test.csv
 The training and test datasets are required to run the .ipynb, and a restructuring of the string pulling location to fit your folder layout is needed.
 
 # Description of data:
+Assignment1.docx - Contains the instructions of assignment 1 and also holds a link to my GitHub.
+
 Assignment1NB.ipynb - This contains the base code for part 2 of the assignment which depicts housing sale price predictions for both current and future predictions.
 
 TechnicalReport.docx - This is a Word document that completes part 3 of the assignment and contains a link to my github.
