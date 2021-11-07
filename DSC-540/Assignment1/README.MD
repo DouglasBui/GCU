@@ -6,8 +6,11 @@ Upload the Python Jupyter notebooks to your repository and submit the link to th
 
 # Submitting Files:
 Assignment1NB.ipynb
+
 TechnicalReport.docx
+
 train.csv
+
 test.csv
 
 # Instructions:
