@@ -6,4 +6,5 @@ Implementation of the K-Nearest Neighbor Algorithm or K-NN. Each observation wit
 
 # Files Submitted
 Assignment2.docx - This file contines Parts 1: Theory and Parts 2: Technical Report.
+
 Assignment2NB.ipynb - This File contains Part 2: implementation of python Code for K-Nearest Neighbors algorithm.
