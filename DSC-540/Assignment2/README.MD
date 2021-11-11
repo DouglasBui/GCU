@@ -4,6 +4,10 @@
 # Description: 
 Implementation of the K-Nearest Neighbor Algorithm or K-NN. Each observation within thedataset represents an image that depicts a number ranging from 0 to 9. The algorithm learns the patterns of each number and then predicts against actual measures.
 
+# Run Instructions
+This .ipynb requires the MNIST Training and Test datasets. Along with SKLearn packge extensions KNeighborClassifier, NearestNeighbor, and Cross Val_Score
+Use PyCharm or Jupyter Notebook
+
 # Files Submitted
 Assignment2.docx - This file contines Parts 1: Theory and Parts 2: Technical Report.
 
