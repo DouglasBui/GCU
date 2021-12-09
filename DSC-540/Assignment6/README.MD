@@ -1,4 +1,5 @@
 Assignment 6 README
+
 Task: In this assignment we were to utilize fuzzy logic to derive meaning parameters and delve into academic articles.
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -14,4 +15,5 @@ Assignment6coding.pdf - picture of the code that is illustrated in the technical
 ----------------------------------------------------------------------------------------------------------------------
 
 Instructions:
+
 Run the notebook.ipynb in a python idle and make sure all packages are installed before running.
