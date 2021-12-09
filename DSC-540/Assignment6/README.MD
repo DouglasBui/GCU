@@ -1,7 +1,7 @@
 Assignment 6 README
 Task: In this assignment we were to utilize fuzzy logic to derive meaning parameters and delve into academic articles.
 
-#ubmitting Files:
+Submitting Files:
 T6Assignment.docx - Initial assignment with input of answers.
 
 Assignment6coding.ipynb - Notebook of my complete working python code used within the assignment.
