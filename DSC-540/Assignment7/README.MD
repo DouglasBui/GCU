@@ -8,11 +8,11 @@ Assignment7.ipynb - Holds the python coding and written responses for each quest
 
 Assignment 7.docx - Contains the base assignment and github link
 
-heart.csv
+heart.csv - The dataset used for this notebook 
 
 
 ##Instructions:
-This notebook requires the upload of the heart.csv dataset from UCI
+This notebook requires the upload of the heart.csv dataset from UCI. The methods used inside of the notebook are outlined and detailed on their utility.
 
 ##Data Source:
 
